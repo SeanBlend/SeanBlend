@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello
 
-<!--
-**SeanBlend/SeanBlend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanBlend)](https://github.com/SeanBlend)
 
-Here are some ideas to get you started:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeanBlend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Views](https://komarev.com/ghpvc/?username=SeanBlend)
+
+## Large Projects
+* [Chess][chess], a chess API similar to lichess
+
+## About Me
+* I am a 4th grader in California.
+* I enjoy coding (obviously)
+* I like Python, C++, HTML, CSS, JS, and Java.
+* I like GNU, Linux, and free projects (free in both freedom and price).
+* I don't like Go.
+
+[chess]: https://github.com/SeanBlend/Chess
