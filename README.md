@@ -1,6 +1,6 @@
 # Hi!
 
-I am a fourth grader in California, USA. Some of my favorite programming languages are C++ and Python.
+I am a middle schooler in California, USA. Some of my favorite programming languages are C++ and Python.
 
 ![](https://github-readme-stats.vercel.app/api?username=SeanBlend&theme=dark)
 
