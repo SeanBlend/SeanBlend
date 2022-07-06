@@ -1,6 +1,6 @@
 # Hi!
 
-I am a 6th (almost 7th) grader in California, USA. Here's some more facts about me!
+I am a 7th grader in California, USA. Here's some more facts about me!
 
 Some of my hobbies include:
  - Coding in Python
