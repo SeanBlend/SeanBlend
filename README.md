@@ -11,7 +11,9 @@ My favorite things include:
  - Programming language: Python
  - Instrument: Tie between piano, violin, and clarinet
  - Key Signature: E Major, <b>c# minor</b>
- - Piece of music: Tie between Czardas (Monti), Danse Macabre (Saint-Saens), and Etude No. 6/Caprice No. 24 (Liszt/Paganini)
+ - Piece of music: Too many
+ - Color: Red
+ - Operating System: Linux (Ubuntu)
  
 
 ![](https://github-readme-stats.vercel.app/api?username=shuang4096&theme=dark)
