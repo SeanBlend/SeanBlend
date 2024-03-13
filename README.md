@@ -5,7 +5,7 @@ I am a 8th grader in California, USA. Here's some more facts about me!
 Some of my hobbies include:
  - Coding in Python
  - Creating music
- - Working on indie game-dev
+ - Learning game development in Godot
  
 My favorite things include:
  - Programming language: Python
