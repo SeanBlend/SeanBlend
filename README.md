@@ -1,11 +1,11 @@
 # Hi!
 
-I am a 7th grader in California, USA. Here's some more facts about me!
+I am a 8th grader in California, USA. Here's some more facts about me!
 
 Some of my hobbies include:
  - Coding in Python
  - Creating music
- - Adding videos to my Youtube channel!
+ - Working on indie game-dev
  
 My favorite things include:
  - Programming language: Python
